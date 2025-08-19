@@ -48,4 +48,3 @@ Contribution and Collaboration
 
 This is a group project developed by Samiksha Sandeep Zokande, Prathana Sharma and Dr. Hemanth K S. We have consolidated our work into a single script to maintain a clean and unified codebase. We welcome suggestions and improvements!
 If you'd like to contribute, feel free to fork the repository and submit a pull request. We can discuss new features, bug fixes, or improvements to the optimization algorithms.
-
